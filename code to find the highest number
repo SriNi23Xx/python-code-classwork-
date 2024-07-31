@@ -1,0 +1,4 @@
+age1=int (input(" Please Enter the first age: "))
+age2 = int (input(" Please Enter the second age: "))
+if(age1<age2):
+    print('Age2 is older')
